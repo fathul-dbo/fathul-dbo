@@ -69,15 +69,4 @@ Hi! I'm **Galih Fathul Rohmi**, a Frontend Developer passionate about building m
 *Generated with [Pac-Man Contribution Graph](https://github.com/abozanona/pacman-contribution-graph)*
 
 </div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 👾
-
-*Building things, learning continuously, and making ideas come to life.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4169E1,100:6A5ACD&height=120&section=footer" />
-
 </div>
