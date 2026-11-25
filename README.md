@@ -1,34 +1,24 @@
- <div align="center">
-<img
-  src="https://avatars.githubusercontent.com/u/250299050?v=4&amp;size=64"
-  data-testid="github-avatar"
-  alt="Avatar"
-  style="width: 48px; height: 48px; border-radius: 9999px; object-fit: cover;"
-/>
-
+<div align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+React+Native+Enthusiast;Building+Modern+Web+%26+Mobile+Apps;Turning+Ideas+Into+Code" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=fathul-dbo&style=flat-square&color=6A5ACD&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi! I'm **Galih Fathul Rohmi**, a Frontend Developer passionate about building modern, responsive, and user-friendly applications.
 
-- 💻 Focused on Frontend Development.
-- 📱 Interested in scalable web and mobile applications.
-- 🎨 Passionate about UI/UX and clean code.
+- ⚡ Focused on Frontend Development.
+- ⚡ Interested in scalable web and mobile applications.
+- ⚡ Passionate about UI/UX and clean code.
 - ⚡ Interested in application performance and architecture.
-- 🌱 Always learning and exploring new technologies.
+- ⚡ Always learning and exploring new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 
@@ -44,7 +34,7 @@ Hi! I'm **Galih Fathul Rohmi**, a Frontend Developer passionate about building m
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -54,7 +44,7 @@ Hi! I'm **Galih Fathul Rohmi**, a Frontend Developer passionate about building m
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=fathul-dbo&theme=tokyonight&hide_border=true&background=0D1117&ring=8B7CFF&fire=00C9FF&currStreakLabel=00C9FF" />
+<img width="70%" src="https://streak-stats.demolab.com?user=fathul-dbo&starting_year=2026&theme=tokyonight&hide_border=true&background=0D1117&ring=8B7CFF&fire=00C9FF&currStreakLabel=00C9FF" />
 
 </div>
 
@@ -64,19 +54,7 @@ Hi! I'm **Galih Fathul Rohmi**, a Frontend Developer passionate about building m
 
 <div align="center">
 
-**My coding journey over the last 12 months**
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fathul-dbo&bg_color=0D1117&color=8B7CFF&line=00C9FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 👾 Pac-Man Contribution Game
-
-<div align="center">
-
-**Eat. Code. Repeat.**
+**Coffee. Code. Repeat.**
 
 <p>Watch Pac-Man explore my GitHub contribution history!</p>
 
