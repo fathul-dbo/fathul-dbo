@@ -6,34 +6,6 @@
 
 ---
 
-## About Me
-
-Hi! I'm **Galih Fathul Rohmi**, a Frontend Developer passionate about building modern, responsive, and user-friendly applications.
-
-- ⚡ Focused on Frontend Development.
-- ⚡ Interested in scalable web and mobile applications.
-- ⚡ Passionate about UI/UX and clean code.
-- ⚡ Interested in application performance and architecture.
-- ⚡ Always learning and exploring new technologies.
-
----
-
-## Tech Stack
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,redux,vuejs,nuxtjs,tailwind&theme=dark" />
-</p>
-
-### Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
-</p>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
